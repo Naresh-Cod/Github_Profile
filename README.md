@@ -18,5 +18,4 @@ Hi there, I'm Naresh kumar! 👋
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naresh-Cod&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-github-contribution-grid-snake.svg
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Github_Profile
